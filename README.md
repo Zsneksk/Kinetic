@@ -1,0 +1,2 @@
+# Kinetic
+Get kinetic instantly
